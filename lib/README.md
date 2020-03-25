@@ -12,3 +12,10 @@ Each message is a string of characters from the alphabet. Adjacent
 characters cannot be repeated.
 
 This is the JavaScript library.
+
+## Build
+
+```
+npm i
+npm run build
+```
